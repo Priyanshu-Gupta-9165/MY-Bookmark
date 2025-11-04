@@ -1,11 +1,18 @@
-# 🌐 MY-Bookmark
+<h1 align="center">🔖 MY-Bookmark</h1>
 
-> 🔖 A simple, elegant, and browser-friendly bookmarking web app — Save your favorite links, organize them, and access them anytime, anywhere!
+<p align="center">
+  <em>A smart and simple bookmark manager built to organize your online world effortlessly.</em>
+</p>
 
-![GitHub stars](https://img.shields.io/github/stars/Priyanshu-Gupta-9165/MY-Bookmark?style=flat&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/Priyanshu-Gupta-9165/MY-Bookmark?style=flat&color=blue)
-![GitHub repo size](https://img.shields.io/github/repo-size/Priyanshu-Gupta-9165/MY-Bookmark?color=green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+
+<!-- 🏷️ Badges Section -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Priyanshu-Gupta-9165/MY-Bookmark?style=flat&color=yellow" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/forks/Priyanshu-Gupta-9165/MY-Bookmark?style=flat&color=blue" alt="GitHub forks"/>
+  <img src="https://img.shields.io/github/repo-size/Priyanshu-Gupta-9165/MY-Bookmark?color=green" alt="Repo size"/>
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" alt="License"/>
+</p>
+
 
 ---
 
