@@ -182,7 +182,7 @@ SOFTWARE.
 ---
 
 <p align="center">
-Made by ❤️<b>Priyanshu Gupta</b>
+<i>Made by ❤️<b>Priyanshu Gupta</b></i>
 </p>
 
 
