@@ -94,11 +94,16 @@ MY-Bookmark/
 
 
 ### 🧩 Homepage
- Dark mode:
+ 
 <img width="1897" height="868" alt="Image" src="https://github.com/user-attachments/assets/2e0a38c7-7e53-4404-aa7d-cc3ee354c265" />
-
- Light mode:
+<p align="center">
+  <em>Dark mode</em>
+</p>
+ 
 <img width="1897" height="874" alt="Image" src="https://github.com/user-attachments/assets/de5d21c1-826d-4e60-8307-9b4479030017" />
+<p align="center">
+  <em>Light mode</em>
+</p>
 
 ### 📱 Responsive View
 <img width="256" height="573" alt="Image" src="https://github.com/user-attachments/assets/11d792fb-1931-4482-ac57-7184cc0fcd5e" />
